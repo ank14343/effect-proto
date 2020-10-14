@@ -1,10 +1,10 @@
 {
   "name": "effect-proto",
   "version": "0.0.5",
-  "description": "Redux Starter Project",
+  "description": "creates diff effects",
   "main": "index.js",
   "scripts": {
-    "start": "webpack --config ./webpack.config.js"
+    "test": "webpack --config ./webpack.config.js"
   },
   "keywords": [],
   "author": "Ankur Arya",
